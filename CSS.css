@@ -310,6 +310,7 @@ textarea.contact-form-text{
    font-size: 1.8rem;
   /*  margin:0.6rem;*/
     color:#ffffff;
+    transition: 0.5s;
     
 }
 
@@ -324,6 +325,7 @@ textarea.contact-form-text{
     font-size: 1.8rem;
    /* margin:0.6rem;*/
     color:#ffffff;
+    transition: 0.5s;
 }
 
 .fa-linkedin:hover{
@@ -336,6 +338,7 @@ textarea.contact-form-text{
   font-size: 1.8rem;
 /*  margin:0.6rem;*/
   color:#ffffff;
+  transition: 0.5s;
 }
 
 .fa-mail-bulk:hover{
