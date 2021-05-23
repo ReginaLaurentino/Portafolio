@@ -40,7 +40,7 @@ h1{
 
 .header{
    /* background: #38006b;*/
-   background: #311a91;
+    background: #311a91;
     display: flex;   
     align-items: center;
     text-decoration: none;
@@ -59,8 +59,7 @@ h1{
 .navigation{
     display: flex-end;
     height: 100%;
-    width: 40%;
-  
+    width: 40%;  
 }
 
 .navigation ul{
